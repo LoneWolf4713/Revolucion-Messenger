@@ -1,4 +1,4 @@
-﻿# _Revolución_ _Messenger_- Chat Over L2
+﻿# _🌟Revolución_ _Messenger_- Chat Over L2
 
 Simple Chat application that works over Data-Link Layer (Layer 2)  of OSI Model, It doesn't touch the IP Layer (Layer 3).
 
