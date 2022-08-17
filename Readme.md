@@ -51,7 +51,7 @@ The project is a two-program package ( >< ! ). One receiver and one sender. This
 ## Project Status
 
 Well, I had already told you that I am making this while I'm still learning Networking and a lot of other stuff! Including Python, Linux and much more. So this program is bound to have many bugs and drawbacks and other negative things. 
-Please feel free to write to me anything about it at pratyakshk47@gmail.com.
+Please feel free to write to me anything about it at pratyakshk13@gmail.com.
 As Always, your ideas are  welcome! 
 .
 .
